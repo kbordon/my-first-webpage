@@ -1,31 +1,24 @@
 # _my-first-webpage_
 
-#### _A simple webpage overview of my favorite things, September 5, 2017_
+#### _HTML exercise for Epicodus, 09.05.2017_
 
-#### By _**Kim Bordon and Jessie Waite**_
+#### By _**By Jessie Waite and Kimberly Bordon**_
 
 ## Description
 
-_This webpage is a simple web page that outlines the items I'm going to learn about coding._
+_This is a simple webpage about Michael's favorite things._
 
 ## Setup/Installation Requirements
 
-_You will need a web browser to view this webpage._
-
-## Known Bugs
-
-_None at this time._
+* _Clone the respository._
+* _Open in available web browser._
 
 ## Support and contact details
 
-_Please tell Kim (kbordon@gmail.com) or Jessie (jess.bell@me.com) if you like this website._
+_If there are concerns, please contact either Jessie at jess.bell@me.com or Kimberly at kbordon@gmail.com._
 
 ## Technologies Used
 
-_We used HTML exclusively._
+_Atom and GitHub_
 
-### License
-
-*This software is licensed under the MIT license.*
-
-Copyright (c) 2016 **_Epicodus, Kim, Jessie_**
+Copyright (c) 2016 **_Jessie Waite, Kimberly Bordon and Epicodus_**
